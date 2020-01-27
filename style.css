@@ -1,0 +1,26 @@
+.Main {
+  margin-left: 10%;
+  width: 80%;
+  height: 300px;
+  background-color: red;
+  border: solid 5px #000;
+}
+
+.Main .para1 {
+  background-color: #17815e;
+  font-size: 14px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Main .para2 {
+  background-color: #beca11;
+  font-size: 14px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Main .para3 {
+  background-color: #df17a3;
+  font-size: 14px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/*# sourceMappingURL=style.css.map */
